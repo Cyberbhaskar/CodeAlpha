@@ -1,0 +1,5 @@
+{
+  "name": "CodeAlpha: Cyber Security Internship Project",
+  "description": "A comprehensive cybersecurity toolkit built for the CodeAlpha internship. This project includes a Network Intrusion Detection System (Task 4 & 1), an interactive Phishing Awareness Training module (Task 2), and a Gemini-powered Secure Code Analyzer (Task 3).",
+  "requestFramePermissions": []
+}
